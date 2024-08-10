@@ -1,2 +1,3 @@
 frontend/node_modules/
 venv/
+backend/spotify/credentials.py
